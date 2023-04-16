@@ -1,15 +1,15 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "🤖",
+    "description": "🤖 [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "🤖",
         "WhatsApp",
         "Black Amda",
         "multi-device"
     ],
     "website": "https://amdaniwasa.com/",
     "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {

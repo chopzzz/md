@@ -55,5 +55,5 @@ AMDI({ cmd: "system", desc: "Bot Status", cmdHideInMenu: true }, (async (amdiWA)
 AMDI({ cmd: ["qaversion", "version"], desc: "Version check", cmdHideInMenu: true }, (async (amdiWA) => {
     let { reply } = amdiWA.msgLayout;
     const version = Package.version
-    return await reply(`*🧬 Queen Amdi Version 🧬*\n\n` + '```Installed version``` : ' + version +'\n' + '\n```Check github``` : https://github.com/BlackAmda/QueenAmdi/');
+    return await reply(`*🧬 🤖 Version 🧬*\n\n` + '```Installed version``` : ' + version +'\n' + '\n```Check github``` : https://github.com/BlackAmda/QueenAmdi/');
 }));

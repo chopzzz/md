@@ -20,7 +20,7 @@ AMDI({ cmd: "fancy", desc: Lang.FONT_DESC, type: "primary", react: "🌈" }, (as
     if (!input) return reply(Lang.NEED_WORD)
 
     var listInfo = {}
-    listInfo.title = '╔═══════❪💃🏻♥️❫\n\n▷ *Queen Amdi Fancy Text* ◁'
+    listInfo.title = '╔═══════❪💃🏻♥️❫\n\n▷ *🤖 Fancy Text* ◁'
     listInfo.text = 'CODED BY BLACK AMDA & RAVINDU MANOJ\n\n╚═════≪ •❈• ≫═════'
     listInfo.buttonTXT = 'Select text style'  
 

@@ -171,11 +171,11 @@ AMDI({ cmd: "tkinfo", desc: "Scarp tk info", react: "💃🏻", type: "primary" 
 }));
 
 
-AMDI({ cmd: "script", desc: "Queen Amdi deploy site info", react: "💃🏻", type: "primary" }, (async (amdiWA) => {
+AMDI({ cmd: "script", desc: "🤖 deploy site info", react: "💃🏻", type: "primary" }, (async (amdiWA) => {
     let { sendText } = amdiWA.msgLayout
 
     const text =
-        `*🌐 Queen Amdi v4 Official Website💃🏻♥️*
+        `*🌐 🤖 v4 Official Website💃🏻♥️*
 
     ✅ Deploy Website:
     https://amdaniwasa.com

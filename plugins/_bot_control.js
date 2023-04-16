@@ -191,7 +191,7 @@ AMDI({ cmd: "rate", desc: Lang.rateDESC, type: "primary", react: "✨" }, (async
 
     if (!input) {
         const botname = await getMiscData('BOTNAME');
-        let BOTNAME = !botname.data ? 'Queen Amdi' : botname.data
+        let BOTNAME = !botname.data ? '🤖' : botname.data
 
         var listInfo = {}
         listInfo.title = Lang.ratesTitle.format(BOTNAME)
@@ -224,7 +224,7 @@ AMDI({ cmd: "reacts", desc: Lang.RL_DESC, type: "profile", react: "💟" }, (asy
     if (!input) {
         const botname = await getMiscData('BOTNAME');
         const miscData = await getMiscDataList();
-        let BOTNAME = !botname.data ? 'Queen Amdi' : botname.data
+        let BOTNAME = !botname.data ? '🤖' : botname.data
 
         var listInfo = {}
         listInfo.title = Lang.RL_Title.format(BOTNAME)
